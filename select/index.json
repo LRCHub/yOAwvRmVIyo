@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "裸の心",
+  "base_artist": "あいみょん",
+  "createdAt": "2026-03-08T14:46:21.880350Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "裸の心 - Naked Heart",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/01_裸の心_-_Naked_Heart_aimyon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "裸の心 - Naked Heart",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/02_裸の心_-_Naked_Heart_aimyon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "裸の心",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/03_裸の心_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "裸の心 (Instrumental) - Naked Heart (Instrumental)",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/04_裸の心_(Instrumental)_-_Naked_Heart_(Instrumental)_aimyon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "裸の心 (Live in 阪神甲子園球場, 2022.11.05)",
+      "artist": "あいみょん",
+      "has_synced": true,
+      "path": "select/05_裸の心_(Live_in_阪神甲子園球場,_2022.11.05)_あいみょん.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "裸の心",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_裸の心_あいみょん.txt"
+    }
+  ]
+}
